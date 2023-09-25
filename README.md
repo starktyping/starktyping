@@ -1,10 +1,6 @@
 
 I do [formal methods](https://shemesh.larc.nasa.gov/fm/fm-what.html) 🎉
 
-In 2018 I taught a Haskell course in [Syracuse](https://syr.edu) ❄️
-
-In my wild and misspent youth I studied mathematics at [UCSB](https://www.ucsb.edu/) in [Goleta](https://en.wikipedia.org/wiki/Goleta,_California) ⛵
-
 Email *martin* at my [domain](https://reklack.net) 🌐
 
 ---
