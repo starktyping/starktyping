@@ -1,5 +1,5 @@
 
-I do [formal methods](https://shemesh.larc.nasa.gov/fm/fm-what.html) 🎉
+I [construct functions](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) 🎉
 
 Email *martin* at my [domain](https://reklack.net) 🌐
 
