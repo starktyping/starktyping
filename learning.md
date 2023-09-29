@@ -5,3 +5,7 @@
 3. [*Functional Programming in Lean*](https://lean-lang.org/functional_programming_in_lean/)
 4. [*Metaprogramming in Lean*](https://github.com/leanprover-community/lean4-metaprogramming-book)
 
+---
+
+chat on [Zulip](https://leanprover.zulipchat.com/)
+
