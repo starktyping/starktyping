@@ -9,3 +9,11 @@
 
 chat on [Zulip](https://leanprover.zulipchat.com/)
 
+---
+
+### For Streams
+
+a [segmenting tool](https://github.com/obs-ai/obs-backgroundremoval)
+
+an [ambience generator](https://github.com/facebookresearch/audiocraft)
+
