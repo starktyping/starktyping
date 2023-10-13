@@ -4,6 +4,7 @@
 2. [*Theorem Proving in Lean*](https://github.com/leanprover/theorem_proving_in_lean4)
 3. [*Functional Programming in Lean*](https://lean-lang.org/functional_programming_in_lean/)
 4. [*Metaprogramming in Lean*](https://github.com/leanprover-community/lean4-metaprogramming-book)
+5. [`certigrad`](https://github.com/dselsam/certigrad)
 
 ---
 
