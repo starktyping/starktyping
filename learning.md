@@ -13,7 +13,7 @@ chat with the [Coq](https://coq.zulipchat.com/) nerds
 
 ---
 
-# Watch Links
+### Watch Links
 
 the [Lean FRO](https://lean-fro.org/about/)
 
