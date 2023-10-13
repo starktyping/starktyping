@@ -13,9 +13,7 @@ chat with the [Coq](https://coq.zulipchat.com/) nerds
 
 ---
 
-### For Streams
+# Watch Links
 
-a [segmenting tool](https://github.com/obs-ai/obs-backgroundremoval)
-
-an [ambience generator](https://github.com/facebookresearch/audiocraft)
+the [Lean FRO](https://lean-fro.org/about/)
 
