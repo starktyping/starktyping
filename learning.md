@@ -8,7 +8,7 @@
 
 ---
 
-chat on [Zulip](https://leanprover.zulipchat.com/)
+chat on [Zulip](https://leanprover.zulipchat.com/)\
 chat with the [Coq](https://coq.zulipchat.com/) nerds
 
 ---
