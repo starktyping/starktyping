@@ -5,6 +5,7 @@
 3. [*Functional Programming in Lean*](https://lean-lang.org/functional_programming_in_lean/)
 4. [*Metaprogramming in Lean*](https://github.com/leanprover-community/lean4-metaprogramming-book)
 5. [`certigrad`](https://github.com/dselsam/certigrad)
+6. [Loogle!](https://loogle.lean-lang.org/)
 
 ---
 
