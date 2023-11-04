@@ -9,6 +9,14 @@
 6. [`certigrad`](https://github.com/dselsam/certigrad)
 7. [Loogle!](https://loogle.lean-lang.org/)
 
+### Math Sources
+
+- [jean-bernard](https://homepages.laas.fr/lasserre/drupal/content/research-machine-learning)
+- [anton](https://antonleykin.math.gatech.edu/publications.html)
+- [cynthia](http://sites.math.washington.edu/~vinzant/research.html)
+- [claus](http://www.math.uni-konstanz.de/~scheider/publ.html#papers)
+- [rainer](https://www.math.uni-leipzig.de/~sinn/index_en.html)
+
 ---
 
 chat on [Zulip](https://leanprover.zulipchat.com/)\
