@@ -27,5 +27,7 @@ chat with the [Coq](https://coq.zulipchat.com/) nerds
 
 ### Watch Links
 
-the [Lean FRO](https://lean-fro.org/about/)
+the [Lean FRO](https://lean-fro.org/about/)\
+[community](https://leanprover-community.github.io/index.html) page\
+some [hard truth from HSV](https://www.youtube.com/watch?v=CdKvZDQt96o)
 
