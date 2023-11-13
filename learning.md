@@ -17,6 +17,7 @@
 - [claus](http://www.math.uni-konstanz.de/~scheider/publ.html#papers)
 - [rainer](https://www.math.uni-leipzig.de/~sinn/index_en.html)
 - [markus](https://www.math.uni-konstanz.de/~schweigh/publications_en.html)
+- [grrigg](https://sites.google.com/site/grrigg/)
 
 ---
 
