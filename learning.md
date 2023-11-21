@@ -19,6 +19,12 @@
 - [markus](https://www.math.uni-konstanz.de/~schweigh/publications_en.html)
 - [grrigg](https://sites.google.com/site/grrigg/)
 
+### Philosophy Sources
+
+- [process](https://plato.stanford.edu/entries/process-philosophy/)
+- [intuition](https://plato.stanford.edu/entries/intuitionism/)
+- [construct](https://plato.stanford.edu/entries/mathematics-constructive/)
+
 ---
 
 chat on [Zulip](https://leanprover.zulipchat.com/)\
