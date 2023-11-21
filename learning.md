@@ -6,8 +6,9 @@
 3. [*Functional Programming in Lean*](https://lean-lang.org/functional_programming_in_lean/)
 4. [*Metaprogramming in Lean*](https://github.com/leanprover-community/lean4-metaprogramming-book)
 5. [*Logic and Mechanized Reasoning*](https://avigad.github.io/lamr/#)
-6. [`certigrad`](https://github.com/dselsam/certigrad)
-7. [Loogle!](https://loogle.lean-lang.org/)
+6. [*mechbeth*](https://hrmacbeth.github.io/math2001/)
+7. [`certigrad`](https://github.com/dselsam/certigrad)
+8. [Loogle!](https://loogle.lean-lang.org/)
 
 ### Math Sources
 
