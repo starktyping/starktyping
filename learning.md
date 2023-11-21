@@ -24,6 +24,7 @@
 - [process](https://plato.stanford.edu/entries/process-philosophy/)
 - [intuition](https://plato.stanford.edu/entries/intuitionism/)
 - [construct](https://plato.stanford.edu/entries/mathematics-constructive/)
+- [brouwer](https://www.sciencedirect.com/science/article/pii/S0019357719300059)
 
 ---
 
