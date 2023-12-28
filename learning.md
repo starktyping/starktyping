@@ -28,6 +28,7 @@
 - [brouwer](https://www.sciencedirect.com/science/article/pii/S0019357719300059)
 - [bishop](https://prl.khoury.northeastern.edu/img/sicm.pdf)
 - [whitehead](https://antilogicalism.com/wp-content/uploads/2018/04/process-and-reality.pdf)
+- [more whitehead](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.1906.0014)
 - [kolmogorov](https://www.cs.cmu.edu/~fp/courses/15816-s10/papers/Kolmogorov25.pdf)
 - [martin-löf](https://en.wikipedia.org/wiki/Intuitionistic_type_theory)
 - [voevodsky](https://www.ias.edu/ideas/2014/voevodsky-origins)
