@@ -19,6 +19,7 @@
 - [rainer](https://www.math.uni-leipzig.de/~sinn/index_en.html)
 - [markus](https://www.math.uni-konstanz.de/~schweigh/publications_en.html)
 - [grrigg](https://sites.google.com/site/grrigg/)
+- [klep](https://users.fmf.uni-lj.si/klep/papers.html)
 
 ### Philosophy Sources
 
