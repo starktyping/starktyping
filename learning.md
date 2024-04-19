@@ -35,6 +35,16 @@
 - [voevodsky](https://www.ias.edu/ideas/2014/voevodsky-origins)
 - [mihai-vlad](https://youtu.be/3GRSBhKXbwM?si=k3zpDJpVWc-K9Boj)
 
+### AI/ML Sources
+
+- [domingos](https://arxiv.org/abs/2012.00152)
+- [hinton forward](https://arxiv.org/abs/2212.13345)
+- [friston design](https://arxiv.org/abs/2212.01354)
+- [friston active](https://arxiv.org/abs/2312.07547)
+- [ororbia mortal](https://arxiv.org/abs/2311.09589)
+- [ororbia forward](https://arxiv.org/abs/2303.18187)
+- [ramstead thingness](https://www.dialecticalsystems.eu/contributions/the-free-energy-principle-a-precis/)
+
 ---
 
 chat on [Zulip](https://leanprover.zulipchat.com/)\
