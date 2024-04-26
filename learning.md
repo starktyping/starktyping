@@ -45,6 +45,12 @@
 - [ororbia forward](https://arxiv.org/abs/2303.18187)
 - [ramstead thingness](https://www.dialecticalsystems.eu/contributions/the-free-energy-principle-a-precis/)
 
+### MISC
+
+- `SillyPrizes`
+- `DeapEnd`
+- `big_mother`
+
 ---
 
 chat on [Zulip](https://leanprover.zulipchat.com/)\
