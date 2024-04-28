@@ -48,8 +48,8 @@
 ### MISC
 
 - `SillyPrizes`
-- `DeapEnd`
 - `big_mother`
+- *sequoia* | *sequoyah*
 
 ---
 
