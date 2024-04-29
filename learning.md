@@ -34,6 +34,7 @@
 - [martin-löf](https://en.wikipedia.org/wiki/Intuitionistic_type_theory)
 - [voevodsky](https://www.ias.edu/ideas/2014/voevodsky-origins)
 - [mihai-vlad](https://youtu.be/3GRSBhKXbwM?si=k3zpDJpVWc-K9Boj)
+- [levin-kastrup](https://www.youtube.com/watch?v=7woSXXu10nA)
 
 ### AI/ML Sources
 
