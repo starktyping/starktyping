@@ -1,4 +1,4 @@
-### Lean Sources
+## Lean Sources
 
 0. [Reviews by EK](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
 1. [*Mathematics in Lean*](https://github.com/leanprover-community/mathematics_in_lean)
@@ -34,7 +34,7 @@
 - [martin-löf](https://en.wikipedia.org/wiki/Intuitionistic_type_theory)
 - [voevodsky](https://www.ias.edu/ideas/2014/voevodsky-origins)
 - [mihai-vlad](https://youtu.be/3GRSBhKXbwM?si=k3zpDJpVWc-K9Boj)
-- [levin-kastrup](https://www.youtube.com/watch?v=7woSXXu10nA)
+- [levin-kastrup](https://www.youtube.com/watch?v=7woSXXu10nA) (tail end: fascinating comment on Brouwer)
 
 ### AI/ML Sources
 
@@ -51,7 +51,7 @@
 - `SillyPrizes`
 - `big_mother`
 - `DeapEnd`
-- *sequoia* | *sequoyah*
+- *Process & Intuitionism*
 
 ---
 
