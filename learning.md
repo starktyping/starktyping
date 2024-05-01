@@ -37,6 +37,7 @@
 - [levin-kastrup](https://www.youtube.com/watch?v=7woSXXu10nA) (tail end: fascinating comment on Brouwer)
 - [bateson somatic](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1963.tb03310.x)
 - [bateson bind](https://www.uio.no/studier/emner/sv/sai/SOSANT2525/h14/pensumliste/bateson_toward-a-theory-of-schizophrenia.pdf)
+- [more different](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)
 
 ### AI/ML Sources
 
