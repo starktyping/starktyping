@@ -20,6 +20,7 @@
 - [markus](https://www.math.uni-konstanz.de/~schweigh/publications_en.html)
 - [grrigg](https://sites.google.com/site/grrigg/)
 - [klep](https://users.fmf.uni-lj.si/klep/papers.html)
+- [tao](https://terrytao.wordpress.com/)
 
 ### Philosophy Sources
 
@@ -38,6 +39,8 @@
 - [bateson somatic](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1963.tb03310.x)
 - [bateson bind](https://www.uio.no/studier/emner/sv/sai/SOSANT2525/h14/pensumliste/bateson_toward-a-theory-of-schizophrenia.pdf)
 - [more different](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)
+- [kastrup](https://www.bernardokastrup.com/)
+- [levin](https://thoughtforms.life/)
 
 ### AI/ML Sources
 
@@ -55,6 +58,8 @@
 - `big_mother`
 - `DeapEnd`
 - *Process & Intuitionism*
+- [alexander](https://www.astralcodexten.com/)
+- [aaronson](https://scottaaronson.blog/)
 
 ---
 
