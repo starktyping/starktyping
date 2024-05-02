@@ -41,6 +41,7 @@
 - [more different](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)
 - [kastrup](https://www.bernardokastrup.com/)
 - [levin](https://thoughtforms.life/)
+- [wildberger](https://www.youtube.com/@njwildberger/videos)
 
 ### AI/ML Sources
 
