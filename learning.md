@@ -61,6 +61,7 @@
 - *Process & Intuitionism*
 - [alexander](https://www.astralcodexten.com/)
 - [aaronson](https://scottaaronson.blog/)
+- [langchain](https://python.langchain.com/docs/get_started/introduction/)
 
 ---
 
