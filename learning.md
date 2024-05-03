@@ -21,6 +21,7 @@
 - [grrigg](https://sites.google.com/site/grrigg/)
 - [klep](https://users.fmf.uni-lj.si/klep/papers.html)
 - [tao](https://terrytao.wordpress.com/)
+- [aaronson](https://scottaaronson.blog/)
 
 ### Philosophy Sources
 
@@ -59,9 +60,6 @@
 - `big_mother`
 - `DeapEnd`
 - *Process & Intuitionism*
-- [alexander](https://www.astralcodexten.com/)
-- [aaronson](https://scottaaronson.blog/)
-- [langchain](https://python.langchain.com/docs/get_started/introduction/)
 
 ---
 
