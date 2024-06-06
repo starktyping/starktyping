@@ -61,6 +61,18 @@
 - `DeapEnd`
 - *Process & Intuitionism*
 
+### SERIES
+
+- tree chair
+- busts (f)
+- busts (m)
+- reclining
+- contrapposto
+- meph & marg
+- texture: earth ←→ tng
+- texture: animal ←→ device
+- dual gaia
+
 ---
 
 chat on [Zulip](https://leanprover.zulipchat.com/)\
