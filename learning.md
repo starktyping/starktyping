@@ -1,4 +1,23 @@
-## Lean Sources
+### STACK
+
+- `starkmapping`
+- `big_mother`
+- `DeapEnd`
+- *Process & Intuitionism*
+
+### SERIES
+
+- tree chair
+- busts (f)
+- busts (m)
+- reclining
+- contrapposto
+- meph & marg
+- texture: earth ←→ tng
+- texture: animal ←→ device
+- dual gaia
+
+### Lean Sources
 
 0. [Reviews by EK](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
 1. [*Mathematics in Lean*](https://github.com/leanprover-community/mathematics_in_lean)
@@ -53,25 +72,6 @@
 - [ororbia mortal](https://arxiv.org/abs/2311.09589)
 - [ororbia forward](https://arxiv.org/abs/2303.18187)
 - [ramstead thingness](https://www.dialecticalsystems.eu/contributions/the-free-energy-principle-a-precis/)
-
-### MISC
-
-- `SillyPrizes`
-- `big_mother`
-- `DeapEnd`
-- *Process & Intuitionism*
-
-### SERIES
-
-- tree chair
-- busts (f)
-- busts (m)
-- reclining
-- contrapposto
-- meph & marg
-- texture: earth ←→ tng
-- texture: animal ←→ device
-- dual gaia
 
 ---
 
