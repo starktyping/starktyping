@@ -77,6 +77,6 @@
 ---
 
 chat on [Zulip](https://leanprover.zulipchat.com/)\
-chat with the [Coq](https://coq.zulipchat.com/) nerds
+chat with the [Coq](https://coq.zulipchat.com/) nerds\
 [kilcher](https://discord.com/channels/714501525455634453/986699377257119794)
 
