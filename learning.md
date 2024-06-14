@@ -1,5 +1,6 @@
 ### STACK
 
+- *Contra Domingos*
 - `starkmapping`
 - `big_mother`
 - `DeapEnd`
