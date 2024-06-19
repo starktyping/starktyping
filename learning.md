@@ -1,12 +1,8 @@
-### STACK
+### CURRENT
 
 - `starkmapping`
 - `big_mother`
 - `DeapEnd`
-- *Process & Intuitionism*
-
-### SERIES
-
 - tree chair
 - busts (f)
 - busts (m)
