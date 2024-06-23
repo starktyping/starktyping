@@ -1,5 +1,6 @@
 ### CURRENT
 
+- note on kernels
 - 'pharret'
 - `starkmapping`
 - `big_mother`
