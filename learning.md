@@ -2,7 +2,7 @@
 
 - note on kernels
 - 'pharret'
-- `starkmapping`
+- `starkmapping` ([tatham](https://github.com/ghewgill/puzzles))
 - `big_mother`
 - `DeapEnd`
 - tree chair
