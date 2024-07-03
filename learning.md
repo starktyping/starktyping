@@ -1,6 +1,6 @@
 ### CURRENT
 
-- note on kernels
+- note on kernels (cf. [prh](https://phillipi.github.io/prh/))
 - 'pharret'
 - `starkmapping` ([tatham](https://github.com/ghewgill/puzzles))
 - `big_mother`
