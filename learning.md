@@ -14,6 +14,7 @@
 - texture: earth ←→ tng
 - texture: animal ←→ device
 - dual gaia
+- *Process & Intuitionism*
 
 ### Lean Sources
 
