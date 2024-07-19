@@ -5,6 +5,7 @@
 - `starkmapping` ([tatham](https://github.com/ghewgill/puzzles))
 - `big_mother`
 - `DeapEnd`
+- `jordan`
 - tree chair
 - busts (f)
 - busts (m)
