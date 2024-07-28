@@ -8,7 +8,7 @@
 - *pharret*
 - *tree chair*
 - `big_mother` (local-first)
-- `DeapEnd` - what is IM?
+- `DeapEnd` - what is IR?
 - `jordan` - see matrix
 - `starkmapping` - viz tool
 - *meph & marg*
