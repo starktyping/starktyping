@@ -8,15 +8,15 @@
 - *pharret*
 - *tree chair*
 - `big_mother` (local-first)
+- `starkmapping` - play
 - `DeapEnd` - what is IR?
-- `jordan` - see matrix
-- `starkmapping` - viz tool
+- `CanonicalForm` - see matrix
 - *meph & marg*
 - *dual gaia*
 - busts 
 - reclining
 - contrapposto
-- texture: earth ←→ tng
+- texture: earth ←→ TNG
 - texture: animal ←→ device
 - *Math on Your Mind*
 - *Process & Intuitionism*
