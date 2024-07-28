@@ -63,6 +63,7 @@
 - [kastrup](https://www.bernardokastrup.com/)
 - [levin](https://thoughtforms.life/)
 - [footnotes](https://footnotes2plato.com/)
+- [seth](https://osf.io/preprints/psyarxiv/tz6an)
 
 ### AI/ML Sources
 
