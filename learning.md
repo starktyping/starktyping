@@ -1,20 +1,23 @@
-### CURRENT
+### now
 
-- note on kernels (cf. [prh](https://phillipi.github.io/prh/))
-- 'pharret'
-- `starkmapping` ([tatham](https://github.com/ghewgill/puzzles))
-- `big_mother`
-- `DeapEnd`
-- `jordan`
-- tree chair
-- busts (f)
-- busts (m)
+- site : ST | SC
+    - static builder, CF services
+    - subdomains (e.g. "play")
+    - prefab hosted (no/low code)
+- *goblin ring*
+- *pharret*
+- *tree chair*
+- `big_mother` (local-first)
+- `DeapEnd` - what is IM?
+- `jordan` - see matrix
+- `starkmapping` - viz tool
+- *meph & marg*
+- *dual gaia*
+- busts 
 - reclining
 - contrapposto
-- meph & marg
 - texture: earth ←→ tng
 - texture: animal ←→ device
-- dual gaia
 - *Math on Your Mind*
 - *Process & Intuitionism*
 
